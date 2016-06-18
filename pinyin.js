@@ -1,17 +1,7 @@
 /*
----
 description: Pinyin, to get chinese pinyin from chinese.
-
 license: MIT-style
-
 authors: Bill Lue
-
-requires:
-    core/1.2.1: '*'
-
-provides: [Pinyin]
-
-...
 */
 var pinyin = (function (){
     var JSPinyin = function (ops){
