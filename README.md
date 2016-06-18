@@ -1,16 +1,13 @@
 Pinyin
 =========
 
-To get chinese pinyin from chinese.
-
-It's based on mootools.
+Get chinese pinyin from Chinese characters.
 
 How to use
 ----------
 
 	#JS
-	var pinyin = new Pinyin();
-	alert(pinyin.getFullChars('你好中国'));
+	pinyin.getFullChars('你好中国！');		// NiHaoZhongGuo！
 
 Options
 -------
@@ -20,4 +17,4 @@ Options
 License
 -------
 
-MIT License. Copyright 2008-2010 [Bill Lue](http://moodemo.appspot.com/).
+MIT

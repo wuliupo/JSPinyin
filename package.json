@@ -1,0 +1,23 @@
+{
+  "name": "jspinyin",
+  "version": "1.0.0",
+  "description": "Get Chinese pinyin from Chinese characters.",
+  "main": "pinyin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuliupo/JSPinyin.git"
+  },
+  "keywords": [
+    "Chinese characters",
+    "Pinyin"
+  ],
+  "author": "Bill Lue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuliupo/JSPinyin/issues"
+  },
+  "homepage": "https://github.com/wuliupo/JSPinyin"
+}
